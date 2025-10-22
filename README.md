@@ -11,6 +11,7 @@ I enjoy building creative, user-focused projects that combine design and functio
 - 🧠 Proficient in **C++** and **C#**  
 - 🔧 Currently working with **Python, Java, and Assembly**
 - 🎮 Love experimenting with interactive and visual projects (like games and web apps)
+- 🌟 I’m still building myself up as a developer — learning new tools, sharpening my problem-solving skills, and working toward becoming a well-rounded software engineer.
 
 ---
 
