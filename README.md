@@ -52,7 +52,7 @@ A static interactive horror game created using **C# (Unity)** and **OOP principl
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/brandon-hann-30030a388/) *(add your link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/brandon-hann-30030a388/)
 - ✉️ Email: *Brandon.hann65@gmail.com*
 
 ---
