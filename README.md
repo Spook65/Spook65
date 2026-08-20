@@ -1,75 +1,149 @@
 # 👋 Hey, I'm Brandon Hann
 
-🎓 I’m a Computer Science student passionate about **software engineering, AI-driven applications, and data-informed systems**.  
-I enjoy building **user-focused products** that combine clean design, scalable architecture, and thoughtful integration of modern tools and APIs.
+🎓 I'm a Computer Science student at the **University of the Pacific** interested in **software engineering, cybersecurity, AI systems, and full-stack development**.
+
+I enjoy building and evaluating real-world systems — from full-stack web applications and AI-powered tools to security-focused projects and model evaluation workflows. I'm especially interested in understanding how systems work beneath the surface and using that knowledge to build software that is reliable, secure, and useful.
 
 ---
 
 ## 🚀 About Me
-- 💻 Experience in **front-end development**, **API integration**, and **object-oriented programming**
-- 🤖 Hands-on experience using **AI-assisted development tools** to streamline workflows and accelerate prototyping
-- 🌱 Currently learning **data structures, algorithms, AI/ML concepts, and software design principles**
-- 🧠 Comfortable working with **C++, Java, TypeScript, and Python**
-- 🎮 Interested in interactive systems, dashboards, and real-world problem solving
-- 🌟 Continuously improving as a developer through projects, collaboration, and experimentation
+
+- 💻 Building full-stack applications with **React, TypeScript, Node.js, Express, and REST APIs**
+- 🤖 Experience evaluating **AI model outputs, research trajectories, data quality, and prompt reliability**
+- 🔐 Developing deeper skills in **cybersecurity, networking, system security, and secure application design**
+- 🧠 Programming with **Python, C++, Java, JavaScript, and TypeScript**
+- 🔗 Experienced with API integration, debugging, validation logic, and component-based architecture
+- 🛠️ Comfortable using **Git/GitHub** and AI-assisted development workflows while maintaining hands-on understanding of the systems I build
+- 🌱 Continuously learning through coursework, independent projects, research, and hands-on experimentation
 
 ---
 
-## 🧩 Notable Projects
+## 💼 Experience Highlights
 
-### 🩺 Cura — AI Healthcare Voice Assistant (CalHacks Project)
-An AI-powered healthcare assistant designed to help patients describe symptoms, connect with providers, and schedule appointments through natural conversation.  
-- Developed the **front-end web interface**, including landing page, sign-up flow, dashboard, calendar, appointments, and patient list  
-- Focused on building a **clean, responsive UI** that integrates reliably with backend APIs  
-- Used **Creao AI** to accelerate UI generation and maintain consistent visual styling across all pages  
-- Collaborated with a multidisciplinary team integrating **LiveKit Agents**, **FastAPI**, **MongoDB**, and **Chroma** for real-time voice AI and healthcare workflows
+### 🤖 AI Fellow & Reviewer — Handshake AI
+Worked on human-in-the-loop evaluation and quality control for AI training data.
+
+- Evaluated complex **multi-hop research tasks** designed to test frontier AI systems
+- Independently verified answers across web and archival sources
+- Identified factual, reasoning, sourcing, retrieval, and prompt-quality failures
+- Reviewed research trajectories for ambiguity, unsupported claims, broken source paths, and incorrect attribution
+- Promoted from **Fellow to Reviewer** based on task quality and consistency
+- Provided actionable feedback to improve submitted training data before model use
+
+### 🧠 AI Ethics, Privacy & Compliance Research — University of the Pacific
+- Researched **AI ethics, privacy, security, accountability, and regulatory considerations**
+- Analyzed student survey data on AI usage, transparency, and academic integrity
+- Contributed to structured research supporting responsible institutional AI adoption
+
+### 🛠️ Summer Institute Technical Support — University of the Pacific
+- Supported instructors and students with classroom technology, equipment setup, and troubleshooting
+- Assisted with **FAA TRUST drone instruction**, flight operations, aerial photography, and operational safety
+- Managed technical equipment readiness and supported hands-on technology courses
 
 ---
 
-### 🍽️ Mapetite — Food Discovery Web App
-A modern web application that helps users quickly discover top-rated restaurants through intuitive search and filtering.  
-- Built a responsive interface using **TypeScript, JavaScript, HTML, and CSS**  
-- Designed fast search and category-based filtering for improved user experience  
-- Developed reusable UI components to support clean and scalable front-end architecture
+## 🧩 Featured Projects
+
+### 🩺 Cura — AI Medical Voice Assistant
+**React • TypeScript • FastAPI • MongoDB • LiveKit • Chroma • OpenAI**
+
+🏆 **Regeneron Honorable Mention — CalHacks 12.0**
+
+Cura is a team-built AI healthcare prototype designed to help patients communicate symptoms, interact with an AI voice assistant, and navigate appointment workflows.
+
+**My contributions:**
+- Developed responsive patient and provider interfaces using **React and TypeScript**
+- Built dashboards, appointment views, calendars, patient management interfaces, and authentication flows
+- Integrated frontend components with backend **REST APIs**
+- Collaborated with teammates building the **LiveKit STT/TTS**, OpenAI, MongoDB, FastAPI, and Chroma-based AI architecture
+- Used AI-assisted development tools to accelerate prototyping while maintaining consistent UI patterns
+
+---
+
+### 🍽️ Mapetite — Full-Stack Restaurant Discovery Platform
+**React • TypeScript • Vite • Node.js • Express • TanStack Query • TanStack Router • Zustand • Tailwind CSS**
+
+A full-stack restaurant discovery application focused on search quality, ranking, geospatial data, and reliable handling of real-world restaurant information.
+
+- Built a reusable component-based frontend with **React and TypeScript**
+- Developed backend services using **Node.js and Express**
+- Integrated external restaurant and geospatial data through APIs
+- Implemented search, cuisine/category filtering, ranking, and validation logic
+- Added defensive handling for invalid geocoding, incomplete records, and unreliable data
+- Used **TanStack Query/Router and Zustand** for client-side data and state management
+
+---
+
+### 🛡️ THREATGRID Arena — Cybersecurity Strategy Game
+**JavaScript • HTML • CSS • Cybersecurity Concepts**
+
+A cybersecurity-themed strategy/JRPG project that turns defensive security concepts into interactive gameplay.
+
+- Designed combat systems around concepts such as **firewalls, IDS, honeypots, malware, phishing, ransomware, and botnets**
+- Built modular JavaScript systems for combat, threats, defenders, UI screens, and game state
+- Developed interactive interfaces and visual feedback systems
+- Applied debugging and modular architecture while expanding a larger JavaScript codebase
 
 ---
 
 ### 🎮 2D Strategic Heist Adventure
-A 2D adventure game focused on strategic decision-making, inventory management, and exploration.  
-- Designed full neighborhood maps using **Tiled**, including layered collisions, interactables, and spawn points  
-- Organized tile and object layers to ensure correct rendering, depth, and gameplay logic  
-- Integrated map data with the game engine, verifying object metadata and coordinate alignment
+**Java • Tiled • Gradle • Object-Oriented Programming**
+
+- Designed multi-layer game environments using **Tiled Map Editor**
+- Configured collision layers, interactable objects, spawn locations, and map metadata
+- Integrated map data with game logic and object-oriented systems
+- Debugged rendering, positioning, and gameplay interactions
 
 ---
 
-## 📚 Coursework & Skills
+## 🧰 Technical Stack
 
-**Relevant Coursework**
-- Data Structures & Object-Oriented Programming  
-- Algorithm Design & Analysis  
-- Assembly / Low-Level Programming  
-- AI & Machine Learning (in progress)  
-- App Development  
+### Languages
+`Python` `C++` `Java` `JavaScript` `TypeScript`
 
-**Technical Skills**
-- **Languages:** C++, Java, TypeScript, Python, Assembly  
-- **Web:** HTML, CSS, React/Vite, REST APIs  
-- **Tools:** Git/GitHub, VS Code, IntelliJ, Tiled Map Editor, Creao AI  
-- **Concepts:** UI/UX fundamentals, API integration, debugging, version control
+### Full-Stack Development
+`React` `Vite` `Node.js` `Express` `FastAPI` `HTML` `CSS` `REST APIs`
 
----
+### Data & Application Technologies
+`MongoDB` `Chroma` `TanStack Query` `TanStack Router` `Zustand`
 
-## 🧠 Goals
-- 📊 Gain deeper experience in **data analytics and AI-driven systems**
-- 🩺 Work on projects at the intersection of **technology and healthcare**
-- 🤖 Continue exploring **AI tools and intelligent workflows** in real-world applications
-- 🌍 Contribute to impactful projects that improve accessibility, efficiency, and user experience
+### Developer Tools
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Gradle` `Tiled`
+
+### Areas I'm Exploring
+`Cybersecurity` `Networking` `AI/ML` `AI Evaluation` `Data Quality` `Secure Systems` `LLM Applications`
 
 ---
 
-## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/bhanncs/
-- ✉️ Email: Brandon.hann65@gmail.com
+## 📚 Current Focus
+
+I'm currently strengthening my foundations in:
+
+- 🔐 **Cybersecurity & Networking** — protocols, network architecture, system security, and defensive security
+- 🤖 **AI/ML** — machine learning fundamentals, LLM systems, evaluation, and reliability
+- 🧩 **Software Engineering** — system design, debugging, APIs, and maintainable architecture
+- 🧠 **Algorithms & Computer Science Fundamentals** — data structures, algorithms, and computational problem solving
+
+My goal isn't just to use modern development and AI tools, but to understand the systems behind them well enough to **build, debug, evaluate, and secure them effectively**.
 
 ---
-⭐️ *“Build systems that are useful, thoughtful, and scalable.”*
+
+## 🎯 What I'm Looking For
+
+I'm interested in internships, co-ops, research opportunities, and collaborative projects involving:
+
+**Cybersecurity • Software Engineering • AI/ML • Full-Stack Development • AI Evaluation • Data Systems**
+
+I'm especially interested in opportunities where I can work on real systems, learn from experienced engineers, and contribute to meaningful technical problems.
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** https://www.linkedin.com/in/bhanncs/  
+📧 **Email:** Brandon.hann65@gmail.com  
+💻 **GitHub:** You're already here!
+
+---
+
+> *Build it. Understand it. Break it. Improve it.*
